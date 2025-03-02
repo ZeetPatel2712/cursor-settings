@@ -1,0 +1,10 @@
+{
+	"Print to console": {
+		"prefix": "clinfo",
+		"body": [
+			"console.info('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	}
+}

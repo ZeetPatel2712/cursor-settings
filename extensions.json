@@ -1,0 +1,187 @@
+[
+    {
+        "identifier": "albert.TabOut",
+        "version": "0.2.2",
+        "enabled": true
+    },
+    {
+        "identifier": "alefragnani.Bookmarks",
+        "version": "13.5.0",
+        "enabled": true
+    },
+    {
+        "identifier": "alefragnani.project-manager",
+        "version": "12.8.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Atishay-Jain.All-Autocomplete",
+        "version": "0.0.26",
+        "enabled": true
+    },
+    {
+        "identifier": "bradlc.vscode-tailwindcss",
+        "version": "0.14.8",
+        "enabled": true
+    },
+    {
+        "identifier": "christian-kohler.npm-intellisense",
+        "version": "1.4.5",
+        "enabled": true
+    },
+    {
+        "identifier": "christian-kohler.path-intellisense",
+        "version": "2.10.0",
+        "enabled": true
+    },
+    {
+        "identifier": "cipchk.cssrem",
+        "version": "4.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "dbaeumer.vscode-eslint",
+        "version": "3.0.10",
+        "enabled": true
+    },
+    {
+        "identifier": "dsznajder.es7-react-js-snippets",
+        "version": "4.4.3",
+        "enabled": true
+    },
+    {
+        "identifier": "eamodio.gitlens",
+        "version": "16.3.2",
+        "enabled": true
+    },
+    {
+        "identifier": "ecmel.vscode-html-css",
+        "version": "2.0.13",
+        "enabled": true
+    },
+    {
+        "identifier": "esbenp.prettier-vscode",
+        "version": "11.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-close-tag",
+        "version": "0.5.15",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-rename-tag",
+        "version": "0.1.10",
+        "enabled": true
+    },
+    {
+        "identifier": "Gruntfuggly.todo-tree",
+        "version": "0.0.226",
+        "enabled": true
+    },
+    {
+        "identifier": "HTMLHint.vscode-htmlhint",
+        "version": "1.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "jasonlhy.hungry-delete",
+        "version": "1.7.0",
+        "enabled": true
+    },
+    {
+        "identifier": "johnpapa.vscode-peacock",
+        "version": "4.2.2",
+        "enabled": true
+    },
+    {
+        "identifier": "Katsute.settings-repository",
+        "version": "1.0.11",
+        "enabled": true
+    },
+    {
+        "identifier": "kisstkondoros.vscode-gutter-preview",
+        "version": "0.32.2",
+        "enabled": true
+    },
+    {
+        "identifier": "mhutchie.git-graph",
+        "version": "1.30.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.live-server",
+        "version": "0.4.15",
+        "enabled": true
+    },
+    {
+        "identifier": "msjsdiag.debugger-for-chrome",
+        "version": "4.13.0",
+        "enabled": true
+    },
+    {
+        "identifier": "PKief.material-icon-theme",
+        "version": "5.20.0",
+        "enabled": true
+    },
+    {
+        "identifier": "pomdtr.excalidraw-editor",
+        "version": "3.7.4",
+        "enabled": false
+    },
+    {
+        "identifier": "Shan.code-settings-sync",
+        "version": "3.4.3",
+        "enabled": true
+    },
+    {
+        "identifier": "shyykoserhiy.git-autoconfig",
+        "version": "0.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "solnurkarim.html-to-css-autocompletion",
+        "version": "1.1.2",
+        "enabled": true
+    },
+    {
+        "identifier": "streetsidesoftware.code-spell-checker",
+        "version": "4.0.40",
+        "enabled": true
+    },
+    {
+        "identifier": "stylelint.vscode-stylelint",
+        "version": "1.4.0",
+        "enabled": true
+    },
+    {
+        "identifier": "tonybaloney.vscode-pets",
+        "version": "1.30.0",
+        "enabled": true
+    },
+    {
+        "identifier": "usernamehw.errorlens",
+        "version": "3.23.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vsls-contrib.gistfs",
+        "version": "0.7.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vunguyentuan.vscode-css-variables",
+        "version": "2.7.1",
+        "enabled": true
+    },
+    {
+        "identifier": "WallabyJs.quokka-vscode",
+        "version": "1.0.710",
+        "enabled": true
+    },
+    {
+        "identifier": "wix.vscode-import-cost",
+        "version": "3.3.0",
+        "enabled": true
+    }
+]
