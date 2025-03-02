@@ -150,5 +150,6 @@
     "notebook.formatOnCellExecution": true,
     "editor.formatOnType": true,
     "sync.quietSync": true,
-    "settings-repository.repository": "https://github.com/ZeetPatel2712/cursor-settings.git"
+    "settings-repository.repository": "https://github.com/ZeetPatel2712/cursor-settings.git",
+    "workbench.iconTheme": "material-icon-theme"
 }
