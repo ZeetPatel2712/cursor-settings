@@ -130,11 +130,6 @@
         "enabled": false
     },
     {
-        "identifier": "Shan.code-settings-sync",
-        "version": "3.4.3",
-        "enabled": true
-    },
-    {
         "identifier": "shyykoserhiy.git-autoconfig",
         "version": "0.0.2",
         "enabled": true
