@@ -90,7 +90,6 @@
     },
     "vscode-pets.petSize": "small",
     "vscode-pets.throwBallWithMouse": true,
-    "workbench.iconTheme": "material-icon-theme",
     "AllAutocomplete.dontContributeToSelf": true,
     "sync.autoUpload": true,
     "sync.forceUpload": true,
